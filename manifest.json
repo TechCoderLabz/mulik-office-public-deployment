@@ -1,0 +1,21 @@
+{
+  "name": "Mulik Office",
+  "short_name": "Mulik Office",
+  "description": "Citizen complaint portal for Yogesh Mulik",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "/favicon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/favicon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
